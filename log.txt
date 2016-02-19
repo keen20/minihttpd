@@ -1,0 +1,38 @@
+﻿GET / HTTP/1.1
+Accept: text/html, application/xhtml+xml, */*
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: 192.168.1.254
+Connection: Keep-Alive
+Cookie: H_PS_TIPFLAG=O; H_PS_TIPCOUNT=1; H_PS_LC=1_shoujiweishi201401; BDSVRTM=0
+
+-------360的log
+
+GET /favicon.ico HTTP/1.1
+Accept: */*
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+Host: 192.168.1.254
+Connection: Keep-Alive
+Cookie: BDSVRTM=0; H_PS_TIPFLAG=O; H_PS_TIPCOUNT=2; H_PS_LC=2_shoujiweishi201401
+
+-------IE的log
+
+GET / HTTP/1.1
+Accept: text/html, application/xhtml+xml, */*
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: 192.168.1.254
+Connection: Keep-Alive
+
+-------firefox的log
+
+
+
+
+
+
+
+
