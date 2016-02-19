@@ -1,2 +1,2 @@
 # minihttpd
-a light http server 
+一个基于http协议的服务器，并模拟百度搜索实现本地数据库搜索引擎
